@@ -58,7 +58,7 @@ E com os Seguintes DER abaixo que envolver as CREATE TABLE das TABELAS de:
 
 PRODUTO E MARCA 
 
-![Código SQL](https://github.com/SamuelJorgetto/Tabela-Animais/blob/main/DER%20-%20Produt)
+![Código SQL](https://github.com/SamuelJorgetto/Tabela-Animais/blob/main/DER%20-%20Produto_Marca.png)
 
 
 ESPECIES E ANIMAIS 
